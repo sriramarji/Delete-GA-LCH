@@ -1,7 +1,7 @@
 name: Run commands Windows
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
  
 jobs:
   Run-PSScriptAnalyzer-on-Windows:
